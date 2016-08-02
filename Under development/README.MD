@@ -1,10 +1,6 @@
 Hi,
 
-This is a repo where i put my ideas, or other inspirations.
-
-If you have a idea, what is really cool, you can open a issue/pr.
-
-Does the idea already exists? please tell me.
+This folder contains projects wich are Under Developent right now!
 
 <center>
 ### [Ideas](https://github.com/wdg/Inspiration/Ideas) | [Is Live!](https://github.com/wdg/Inspiration/Is%20Live) | [Under Development](https://github.com/wdg/Under%20Development)
